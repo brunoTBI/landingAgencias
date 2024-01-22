@@ -1,0 +1,48 @@
+{
+    "inputs": [
+      {
+        "name": "contactPerson",
+        "type": "text"
+      },
+      {
+        "name": "phone",
+        "type": "tel"
+      },
+      {
+        "name": "mail",
+        "type": "mail"
+      },
+      {
+        "name": "password",
+        "type": "password"
+      },
+      {
+        "name": "cif_nif",
+        "type": "cifNif"
+      },
+      {
+        "name": "address",
+        "type": "text"
+      },
+      {
+        "name": "postalCode",
+        "type": "text"
+      },
+      {
+        "name": "city",
+        "type": "text"
+      },
+      {
+        "name": "province",
+        "type": "text"
+      },
+      {
+        "name": "country",
+        "type": "text"
+      },
+      {
+        "name": "company",
+        "type": "text"
+      }
+    ]
+  }
